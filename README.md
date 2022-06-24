@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **ReactJS , NextJS , Flutter**
+- 💬 Ask me about **ReactJS , NextJS**
 
 - 📫 How to reach me **milind.dhamu.111@gmail.com**
 
