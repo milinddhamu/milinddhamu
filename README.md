@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/final-github.gif">
+<img align="center" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/title-gif.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milinddhamu&label=Profile%20views&color=0e75b6&style=flat" alt="milinddhamu" /> </p>
 
