@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://private-user-images.githubusercontent.com/68379239/293575703-3ecb798e-fd6e-469d-bb12-161cac6c504e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQwOTgyOTksIm5iZiI6MTcwNDA5Nzk5OSwicGF0aCI6Ii82ODM3OTIzOS8yOTM1NzU3MDMtM2VjYjc5OGUtZmQ2ZS00NjlkLWJiMTItMTYxY2FjNmM1MDRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAxVDA4MzMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhNDY0MWNlZTZkNDU2NGY2MTQwNDczMDc1NWVkYmE5YmViOWM4MWE5ODZjMjc5ZDhkODU2NTQyMzE0YjY0ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aDMkbfu8j-g3QNt5STq-do7JIGPrQX7xz4z6mRG2VDI">
+<img align="center" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/final-github.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milinddhamu&label=Profile%20views&color=0e75b6&style=flat" alt="milinddhamu" /> </p>
 
