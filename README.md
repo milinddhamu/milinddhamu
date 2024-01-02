@@ -6,10 +6,10 @@
 <a href="mailto:milinddhamu6@.com"><img src="https://img.shields.io/badge/-Mail_me-3399FF.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyIDguNjA4VjE2Ljc1QzIyIDE4LjQ4MyAyMC42NDM1IDE5Ljg5OTIgMTguOTM0NCAxOS45OTQ5TDE4Ljc1IDIwSDUuMjVDMy41MTY5NyAyMCAyLjEwMDc1IDE4LjY0MzUgMi4wMDUxNCAxNi45MzQ0TDIgMTYuNzVWOC42MDhMMTEuNjUyIDEzLjY2NDRDMTEuODcgMTMuNzc4NSAxMi4xMyAxMy43Nzg1IDEyLjM0OCAxMy42NjQ0TDIyIDguNjA4Wk01LjI1IDRIMTguNzVDMjAuNDM0NyA0IDIxLjgyMDEgNS4yODE5MSAyMS45ODM4IDYuOTIzNTVMMTIgMTIuMTUzM0wyLjAxNjE5IDYuOTIzNTVDMi4xNzM4NiA1LjM0MjcxIDMuNDY0MzIgNC4wOTU0NSA1LjA2NDA5IDQuMDA1MjNMNS4yNSA0SDE4Ljc1SDUuMjVaIiBmaWxsPSIjMjEyMTIxIi8+PC9zdmc+&labelColor=white&style=plastic" alt="milinddhamu" /></a> 
 </p>
 
-<!--
+
 <p align="center">
-<span style="font-family: 'Roboto mono ', monospace;font-size:16px">milinddhamu6@gmail.com</span>
-</p> -->
+<span>𝚖𝚒𝚕𝚒𝚗𝚍𝚍𝚑𝚊𝚖𝚞𝟼@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</span>
+</p>
 
 <p align="center">
 <img align="center" width="100%" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/animated-line-train-github.gif">
