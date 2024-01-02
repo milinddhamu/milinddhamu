@@ -10,28 +10,30 @@
 </a> 
 </p>
 
-
+<!--
 <p align="center">
 <span style="font-family: 'Roboto mono ', monospace;font-size:16px">milinddhamu6@gmail.com</span>
-</p> 
+</p> -->
 
 <p align="center">
 <img align="center" width="100%" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/animated-line-train-github.gif">
 </p>
 
-
-<h4 style="font-weight:900;color:#84a8ff;letter-spacing:3px;font-size:14px " align="center">CONNECT WITH ME</h3>
+<h4 align="center">CONNECT WITH ME</h3>
 <p align="center" >
-<a href="https://twitter.com/milind_dhamu">
-<img width="40" height="40" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
+<a href="https://twitter.com/milind_dhamu" target="blank">
+<img width="32" height="32" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
 </a>
-<a href="https://instagram.com/milind.dhamu" target="blank"><img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/3772ff/instagram-new--v1.png" alt="instagram-new--v1"/></a>
-<a href="https://discord.gg/Deathic#0380" target="blank"><img width="36" height="36" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
+<a href="https://instagram.com/milind.dhamu" target="blank"><img width="32" height="32" src="https://img.icons8.com/glyph-neue/64/3772ff/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href="https://discord.gg/Deathic#0380" target="blank"><img width="28" height="29" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
 
 </p>
-
-<h3 align="center" style="font-size:18px;font-weight:700;color:#e18e0f;letter-spacing:3px;"><span style="color:#ff6700;font-weight:700;">TOOLS</span><span style="font-size:12px;letter-spacing:0px"> & </span><span style="color:#fa4c13;font-weight:900">TECHNOLOGIES</span></h3>
-
+<h3 align="center">TOOLS & TECHNOLOGIES</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" />
+  </a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&locale=en" alt="milinddhamu" /></p>
 
