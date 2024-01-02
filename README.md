@@ -22,7 +22,7 @@
 
 <h4 style="font-weight:900;color:#84a8ff;letter-spacing:3px;font-size:14px " align="center">CONNECT WITH ME</h3>
 <p align="center" >
-<a href="https://twitter.com/milind_dhamu" target="blank">
+<a href="https://twitter.com/milind_dhamu">
 <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
 </a>
 <a href="https://instagram.com/milind.dhamu" target="blank"><img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/3772ff/instagram-new--v1.png" alt="instagram-new--v1"/></a>
