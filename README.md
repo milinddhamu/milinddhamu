@@ -54,7 +54,7 @@
 </picture>
 </p>
 <br>
-
+<hr>
 <p align="center">
 
 <a href="https://github.com/milinddhamu/coc-nextjs/" target="blank">
