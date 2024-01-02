@@ -34,8 +34,22 @@
 <img align="center" height="60px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=7" />
+    <picture>
+  <source
+    srcset="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" />
+</picture>
 </p>
+
+<br>
+
+
 <p align="center">
 <picture>
   <source
@@ -50,6 +64,16 @@
 </picture>
 </p>
 
+<hr style="height:1px">
+<p align="center">
+<a href="https://github.com/milinddhamu/coc-nextjs/" target="blank">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" alt="coc repo"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/milinddhamu/mini-games" target="blank">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games"/>
+</a>
+</p>
+<br>
 
 
 
