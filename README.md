@@ -64,8 +64,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games"/>
 </a>
 </p>
-<br>
-
 
 
 
