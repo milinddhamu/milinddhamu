@@ -54,8 +54,9 @@
 </picture>
 </p>
 
-<hr style="height:1px">
+
 <p align="center">
+
 <a href="https://github.com/milinddhamu/coc-nextjs/" target="blank">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" alt="coc repo"/>
 </a>
