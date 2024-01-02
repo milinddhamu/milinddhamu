@@ -19,7 +19,9 @@
 <img align="center" width="100%" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/animated-line-train-github.gif">
 </p>
 
-<h4 align="center">CONNECT WITH ME</h3>
+<p align="center">
+<img align="center" height="29px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/Connect.png">
+</p>
 <p align="center" >
 <a href="https://twitter.com/milind_dhamu" target="blank">
 <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
@@ -28,14 +30,21 @@
 <a href="https://discord.gg/Deathic#0380" target="blank"><img width="28" height="29" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
 
 </p>
-<h3 align="center">TOOLS & TECHNOLOGIES</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
+<img align="center" height="60px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png">
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" />
-  </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&locale=en" alt="milinddhamu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milinddhamu&" alt="milinddhamu" /></p>
+
+
+
+
+
+
+
+
+
 
