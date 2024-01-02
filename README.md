@@ -1,26 +1,37 @@
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/title-gif.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milinddhamu&label=Profile%20views&color=0e75b6&style=flat" alt="milinddhamu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/milind_dhamu" target="blank"><img src="https://img.shields.io/twitter/follow/milind_dhamu?logo=twitter&style=for-the-badge" alt="milind_dhamu" /></a> </p>
-
-- 🌱 I’m currently learning **Next JS**
-
-- 💬 Ask me about **ReactJS , NextJS**
-
-- 📫 Reach me @ **milind.dhamu.111@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/milind_dhamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milind_dhamu" height="30" width="40" /></a>
-<a href="https://instagram.com/milind.dhamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milind.dhamu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@milind_dhamu_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@milind_dhamu_123" height="30" width="40" /></a>
-<a href="https://discord.gg/Deathic#0380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deathic#0380" height="30" width="40" /></a>
+<p align="center"> <span> <img src="https://komarev.com/ghpvc/?username=milinddhamu&label=Views&color=252525&style=plastic" alt="milinddhamu" /> </span> 
+<a href="https://milinddhamu.com">
+<img src="https://img.shields.io/badge/Peronal_Website-853aff.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAES0lEQVRoQ+1aW0gVWxj+9zkq6pugpNgxEwlBPXgB8U0IRbpoiNFTougpSioQiXzxReSYEEIFdsEb1lOEmnTBW+GTiEcUTUQRCzUj8VG8V+f7pj07L3v2nglm9hgu+NizZ/9r/d+3/rXWrPnXdshvUhy/iQ45FGK3SOqNSBCIXwTygL+BI4CfSWK20e4XYAxoB54A69586RFyFo3UA395a8yk3+fQ7lXgtaf2vQm5hsp3gT9MIqm32a8wvOHsULd1PAlhJF7YQIRKnGJygDfulGgJCYTxFBClt8sssluAnxPA2l5/WkIuw/CRReSMurmECg16hXBinTLqwSL7V/DDYb+raEWEIYy0iJhRN/PuhryWkE0Y+xv1YJH9FvwE6I3Id4tI/aqbfQHQioghIf39/ZKYmCidnZ1SVFSki1xLS4vk5ubK+Pi4ZGRk6Kqzw8gcISMjI5KUlCRbW1sSHR0ti4uLHomFh4fL3Nyc+Pv7y+joqCQnJ9tLCNlUVlZKdXW1R2K0qaqqUmxsKWRtbU2Wl5clJiZGtre599tf/Pz8ZHZ2VsLCwiQwMNCeQurr66W0tFTy8vKko6PDrRD+1tbWJqqtLSOSkJAgY2Nj0tvbK9nZ2W6FdHd3S2ZmpjIvKMKWQoKCgqS9vV0RERcXJ9PT07vExMbGytTUlHR1dUl+fr6srq7aV0hWVpayDNfV1Ul5efkuIbxXVlYmOTk50tfXZ28hm5ubMjMzIyEhIRIZGamQZWG0FhYWZGVlRVkMAgIC7C1kfX1dKioqpKamRoqLi6W5uVkRwuvGxkblt9raWkWYrYcWhYSGhsr8/LxMTk5KSkqKImRoaEh5+kdFRcnS0tLBEELira2tUlBQIGlpaeJwOGRwcFC5V1hY6Bpqto8Imaanp8vAwIAytCiEezDeoyB1zhwIISQ7PDws8fHxCvGJiQlJTU11rWIHYo6obEtKSqSh4cdbKa+bmprsLUTdxkdERMjGxoaLbHBwsPT09Cjf+XxRl2J+5z6Lu2RbbeNdzK27MOd9xDr+Lk+HQnzQ6R5dHkbkwEeE2RRvGXurRO7kYnho/QOWjwFfHyt8Awfmo9Wcr24haqaR2cZMgAc9x63q+j1+PuA7D3reAuRlKNPI/OpRgMcKvA4GzgMXAG6emBc2K6VKop+A98Az4DnAY4RjwEcnn33HHVrjnxnv0wD33K0+isRet0W4wbe0lwAPfHYVLSE8g+Dc+A9IAwylUE0Qzjk6BPAtjfO2Ua+QnSdWN1HpjgnkjDR5C8a3nUMrDp8/d6bOVjwtrRxanQBtKpxirI4MI8GO/Nc5Ks7gs8tdD3h7RpSi0j3gT2AYuA+8Az4DnJRmFC4iEcBJ4DrA4cSDUJ4wP9Ry6E0I6/EI7gHAVcMX5SOcXtGKhEpIjxDacs7wnw/ngCSA/3wwc/nlPx9GASaQnwL75sTeHtUrxBeRMOTzUIih7rLA+H8awJxCd5vUsgAAAABJRU5ErkJggg==&labelColor=white&style=plastic" alt="milinddhamu" />
+</a> 
+<a href="mailto:milinddhamu6@.com">
+<img src="https://img.shields.io/badge/-Mail_me-3399FF.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyIDguNjA4VjE2Ljc1QzIyIDE4LjQ4MyAyMC42NDM1IDE5Ljg5OTIgMTguOTM0NCAxOS45OTQ5TDE4Ljc1IDIwSDUuMjVDMy41MTY5NyAyMCAyLjEwMDc1IDE4LjY0MzUgMi4wMDUxNCAxNi45MzQ0TDIgMTYuNzVWOC42MDhMMTEuNjUyIDEzLjY2NDRDMTEuODcgMTMuNzc4NSAxMi4xMyAxMy43Nzg1IDEyLjM0OCAxMy42NjQ0TDIyIDguNjA4Wk01LjI1IDRIMTguNzVDMjAuNDM0NyA0IDIxLjgyMDEgNS4yODE5MSAyMS45ODM4IDYuOTIzNTVMMTIgMTIuMTUzM0wyLjAxNjE5IDYuOTIzNTVDMi4xNzM4NiA1LjM0MjcxIDMuNDY0MzIgNC4wOTU0NSA1LjA2NDA5IDQuMDA1MjNMNS4yNSA0SDE4Ljc1SDUuMjVaIiBmaWxsPSIjMjEyMTIxIi8+PC9zdmc+&labelColor=white&style=plastic" alt="milinddhamu" />
+</a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!--
+<p align="center">
+<span style="font-family: 'Roboto mono ', monospace;font-size:16px">milinddhamu6@gmail.com</span>
+</p> -->
+
+<p align="center">
+<img align="center" width="100%" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/animated-line-train-github.gif">
+</p>
+
+
+<h4 style="font-weight:900;color:#84a8ff;letter-spacing:3px;font-size:14px " align="center">CONNECT WITH ME</h3>
+<p align="center" >
+<a href="https://twitter.com/milind_dhamu" target="blank">
+<img width="40" height="40" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
+</a>
+<a href="https://instagram.com/milind.dhamu" target="blank"><img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/3772ff/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href="https://discord.gg/Deathic#0380" target="blank"><img width="36" height="36" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
+
+</p>
+
+<h3 align="center" style="font-size:18px;font-weight:700;color:#e18e0f;letter-spacing:3px;"><span style="color:#ff6700;font-weight:700;">TOOLS</span><span style="font-size:12px;letter-spacing:0px"> & </span><span style="color:#fa4c13;font-weight:900">TECHNOLOGIES</span></h3>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&locale=en" alt="milinddhamu" /></p>
 
