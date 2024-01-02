@@ -39,11 +39,11 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&theme=synthwave&rank_icon=github&hide_title=true&ring_color=3772ff&bg_color=00000000&border_color=3772ff&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&bg_color=00000000&theme=dracula&border_color=3772ff&border_radius=0"
+    srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true" />
