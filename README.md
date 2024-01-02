@@ -20,21 +20,34 @@
 </p>
 
 <p align="center">
-<img align="center" height="29px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/Connect.png">
+<img align="center" height="29px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/Connect.png" alt="Connect with me">
 </p>
 <p align="center" >
 <a href="https://twitter.com/milind_dhamu" target="blank">
 <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
 </a>
 <a href="https://instagram.com/milind.dhamu" target="blank"><img width="32" height="32" src="https://img.icons8.com/glyph-neue/64/3772ff/instagram-new--v1.png" alt="instagram-new--v1"/></a>
-<a href="https://discord.gg/Deathic#0380" target="blank"><img width="28" height="29" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
+<a href="https://discordapp.com/users/Deathic#0380" target="blank"><img width="28" height="29" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
 
 </p>
 <p align="center">
-<img align="center" height="60px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png">
+<img align="center" height="60px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" />
+</p>
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&theme=synthwave&rank_icon=github&hide_title=true&ring_color=3772ff&bg_color=00000000&border_color=3772ff&border_radius=0"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&bg_color=00000000&theme=dracula&border_color=3772ff&border_radius=0"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true" />
+</picture>
 </p>
 
 
