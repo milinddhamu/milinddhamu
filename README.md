@@ -22,14 +22,24 @@
 <p align="center">
 <img align="center" height="29px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/Connect.png" alt="Connect with me">
 </p>
-<p align="center" >
-<a href="https://twitter.com/milind_dhamu" target="blank">
-<img width="32" height="32" src="https://img.icons8.com/ios-filled/50/3772ff/twitterx--v1.png" alt="twitterx--v1"/>
-</a>
-<a href="https://instagram.com/milind.dhamu" target="blank"><img width="32" height="32" src="https://img.icons8.com/glyph-neue/64/3772ff/instagram-new--v1.png" alt="instagram-new--v1"/></a>
-<a href="https://discordapp.com/users/Deathic#0380" target="blank"><img width="28" height="29" style="margin-left:2px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/3772ff/external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo.png" alt="external-discord-freeware-application-and-digital-video-gaming-community-logo-bold-tal-revivo"/></a>
 
+<p align="center" >
+<a href="https://twitter.com/milind_dhamu" target="blank" style="text-decoration:none;">
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/twitter.png" alt="twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/milinddhamu" target="blank" style="text-decoration:none;">
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/000000/linkedin.png" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/milind.dhamu" target="blank" style="text-decoration:none;">
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://discordapp.com/users/Deathic#0380" target="blank" style="text-decoration:none;">
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/discord-logo.png" alt="discord-logo"/>
+</a>
+<a href="https://www.youtube.com/@milinddhamu" target="blank" style="text-decoration:none;">
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/youtube-play.png" alt="youtube-play"/>
+</a>
 </p>
+
 <p align="center">
 <img align="center" height="60px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
 </p>
@@ -57,13 +67,14 @@
 <hr>
 <p align="center">
 
-<a href="https://github.com/milinddhamu/coc-nextjs/" target="blank">
+<a href="https://github.com/milinddhamu/coc-nextjs/" target="blank" style="text-decoration:none;">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" alt="coc repo"/>
 </a>
-<a href="https://github.com/milinddhamu/mini-games" target="blank">
+<a href="https://github.com/milinddhamu/mini-games" target="blank" style="text-decoration:none;">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games"/>
 </a>
 </p>
+
 
 
 
