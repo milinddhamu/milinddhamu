@@ -10,10 +10,10 @@
 </a> 
 </p>
 
-<!--
+
 <p align="center">
 <span style="font-family: 'Roboto mono ', monospace;font-size:16px">milinddhamu6@gmail.com</span>
-</p> -->
+</p> 
 
 <p align="center">
 <img align="center" width="100%" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/animated-line-train-github.gif">
