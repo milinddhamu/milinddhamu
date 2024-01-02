@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-<img align="center" height="60px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
+<img align="center" height="50px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" />
