@@ -33,7 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true" />
 </picture>
 </p>
-<br>
 
 <p align="center">
 <img align="center" height="50px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
