@@ -20,10 +20,10 @@
 </p>
 
 <p align="center" >
-<a href="https://twitter.com/milind_dhamu" target="blank" ><img width="64" height="64" src="https://img.icons8.com/arcade/64/twitter.png" alt="twitter"/></a>
-<a href="https://www.linkedin.com/in/milinddhamu" target="blank" ><img width="64" height="64" src="https://img.icons8.com/arcade/64/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://instagram.com/milind.dhamu" target="blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/instagram-new.png" alt="instagram-new"/></a><a href="https://discordapp.com/users/Deathic#0380" target="blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/discord-logo.png" alt="discord-logo"/></a>
-<a href="https://www.youtube.com/@milinddhamu" target="blank"><img width="64" height="64" src="https://img.icons8.com/arcade/64/youtube-play.png" alt="youtube-play"/></a>
+<a href="https://twitter.com/milind_dhamu" target="blank" ><img width="32" height="32" src="https://img.icons8.com/arcade/64/twitter.png" alt="twitter"/></a>
+<a href="https://www.linkedin.com/in/milinddhamu" target="blank" ><img width="32" height="32" src="https://img.icons8.com/arcade/64/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://instagram.com/milind.dhamu" target="blank"><img width="32" height="32" src="https://img.icons8.com/arcade/64/instagram-new.png" alt="instagram-new"/></a><a href="https://discordapp.com/users/Deathic#0380" target="blank"><img width="32" height="32" src="https://img.icons8.com/arcade/64/discord-logo.png" alt="discord-logo"/></a>
+<a href="https://www.youtube.com/@milinddhamu" target="blank"><img width="32" height="32" src="https://img.icons8.com/arcade/64/youtube-play.png" alt="youtube-play"/></a>
 </p>
 
 <p align="center">
