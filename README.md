@@ -29,12 +29,6 @@
 <p align="center">
 <img align="center" height="50px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/ToolsAndTech.png" alt="Tools & Technologies">
 </p>
-<p align="center">
-<span><img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" /></span>
-</p>
-
-<br>
-
 
 <p align="center">
 <picture>
@@ -45,6 +39,12 @@
 </p>
 <p align="center">
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0020.gif" width="100%"/>
+</p>
+
+<br>
+
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" /></span>
 </p>
 
 <p align="center">
