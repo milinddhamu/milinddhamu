@@ -27,21 +27,17 @@
 </p>
 
 <p align="center">
-<a href="">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true" width="44%" />
 </picture>
-</a>
-<a href="">
+&nbsp;
 <picture>
   <source srcset="https://streak-stats.demolab.com/?user=milinddhamu&theme=jolly&border=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
   <source srcset="https://streak-stats.demolab.com/?user=milinddhamu&theme=buefy-dark&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img src="https://streak-stats.demolab.com/?user=milinddhamu" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=milinddhamu" width="40%" />
 </picture>
-</a>
-
 </p>
 
 <p align="center">
@@ -57,8 +53,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/milinddhamu/coc-nextjs/" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" alt="coc repo"/></a>
-<a href="https://github.com/milinddhamu/mini-games" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games"/></a>
+<a href="https://github.com/milinddhamu/coc-nextjs/" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" width="40%" alt="coc repo"/></a>
+&nbsp;
+<a href="https://github.com/milinddhamu/mini-games" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games" width="40%"/></a>
 </p>
 <p align="center">
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0099.gif" width="100%"/>
