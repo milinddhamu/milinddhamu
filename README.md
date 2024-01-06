@@ -49,18 +49,14 @@
 </p>
 
 
-<p align="center">
-<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0020.gif" width="100%"/>
-</p>
+<a href="/"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0020.gif" width="100%" loop="-1"/></a>
 
 <p align="center">
 <a href="https://github.com/milinddhamu/coc-nextjs/" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" width="40%" alt="coc repo"/></a>
 &nbsp;
 <a href="https://github.com/milinddhamu/mini-games" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games" width="40%"/></a>
 </p>
-<p align="center">
-<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0099.gif" width="100%"/>
-</p>
+<a href="/"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0099.gif" width="100%" loop="-1"/></a>
 
 
 
