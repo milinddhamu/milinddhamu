@@ -43,7 +43,7 @@
 &nbsp;
 <picture>
   <source srcset="https://streak-stats.demolab.com/?user=milinddhamu&theme=jolly&border=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com/?user=milinddhamu&theme=buefy-dark&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <source srcset="https://streak-stats.demolab.com/?user=milinddhamu&theme=catppuccin_latte&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://streak-stats.demolab.com/?user=milinddhamu" width="40%" />
 </picture>
 </p>
