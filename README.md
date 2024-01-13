@@ -53,8 +53,8 @@
 <a href="https://github.com/milinddhamu/mini-games" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games"/></a>
 </p>
 <a href="/"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0099.gif" width="100%" loop="-1"/></a>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_COMMIT -->
+<!--END_SECTION:SHOW_COMMIT -->
 
 
 
