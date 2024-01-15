@@ -51,8 +51,8 @@
 </p>
 <a href="/"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0099.gif" width="100%" loop="-1"/></a>
 
-<!--START_SECTION:waka -->
-<!--END_SECTION:waka -->
+<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:SHOW_COMMIT-->
 
 
 
