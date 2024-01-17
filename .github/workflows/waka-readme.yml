@@ -26,6 +26,6 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_OS: "False"
           SHOW_SHORT_INFO: "False"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "2"
           SHOW_LANGUAGE_PER_REPO: "False"
           
