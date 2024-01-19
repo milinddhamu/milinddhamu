@@ -15,9 +15,6 @@
 <p align="center">
 <img align="center" height="29px" src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/Connect.png" alt="Connect with me">
 </p>
-<p align="center">
-<span>𝚖𝚒𝚕𝚒𝚗𝚍𝚍𝚑𝚊𝚖𝚞𝟼@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</span>
-</p>
 <p align="center" >
 <a href="https://twitter.com/milind_dhamu" target="blank" ><img width="36" height="36" src="https://img.icons8.com/arcade/64/twitter.png" alt="twitter"/></a>
 <a href="https://www.linkedin.com/in/milinddhamu" target="blank" ><img width="36" height="36" src="https://img.icons8.com/arcade/64/000000/linkedin.png" alt="linkedin"/></a>
