@@ -24,9 +24,6 @@
 <span><img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" /></span>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/skulldivider.gif" alt="skull divider" />
-</p>
-<p align="center">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
@@ -37,9 +34,6 @@
   <source srcset="https://streak-stats.demolab.com/?user=milinddhamu&theme=catppuccin_latte&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://streak-stats.demolab.com/?user=milinddhamu" width="39%" />
 </picture>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/milinddhamu/milinddhamu/main/skulldivider.gif" alt="skull divider" />
 </p>
 <p align="center">
 <a href="https://github.com/milinddhamu/coc-nextjs/" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" alt="coc repo"/></a>
