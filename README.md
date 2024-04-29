@@ -24,6 +24,9 @@
 <span><img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,nodejs,express,firebase,tailwind,materialui,styledcomponents,vercel,git,vscode,ps,ae&perline=9" /></span>
 </p>
 <p align="center">
+And much more...
+</p>
+<p align="center">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=milinddhamu&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
